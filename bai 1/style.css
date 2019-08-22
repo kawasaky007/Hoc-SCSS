@@ -1,0 +1,8 @@
+div.container div.child a {
+  color: yellow;
+  font-size: 20px; }
+div.container p {
+  font-size: 30px;
+  color: aquamarine;
+  border-top: solid 3px red;
+  border-bottom: solid 4px white; }
