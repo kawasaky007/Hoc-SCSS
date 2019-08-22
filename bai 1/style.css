@@ -3,6 +3,6 @@ div.container div.child a {
   font-size: 20px; }
 div.container p {
   font-size: 20px;
-  color: gold;
+  color: gray;
   border-top: solid 3px red;
   border-bottom: solid 4px white; }
