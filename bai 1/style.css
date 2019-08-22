@@ -2,7 +2,7 @@ div.container div.child a {
   color: yellow;
   font-size: 20px; }
 div.container p {
-  font-size: 30px;
-  color: aquamarine;
+  font-size: 20px;
+  color: gold;
   border-top: solid 3px red;
   border-bottom: solid 4px white; }
